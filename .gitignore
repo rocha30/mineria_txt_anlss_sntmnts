@@ -1,0 +1,18 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Recursos de NLTK descargados localmente
+nltk_data/
+
+# Archivos del sistema
+.DS_Store
